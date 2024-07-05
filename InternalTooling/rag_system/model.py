@@ -56,7 +56,7 @@ class RAGSystem:
             return response
         except Exception as e:
             logging.error(f"Error during query: {e}")
-            return "An error occurred during the query."
+            return "An error occurred while processing the query."
 
 # Example usage:
 # rag_system = RAGSystem(model, retriever_type='embedding')
