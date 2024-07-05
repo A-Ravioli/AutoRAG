@@ -1,0 +1,9 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+pydantic==1.8.2
+dspy==0.0.1
+transformers==4.11.3
+torch
+datasets==1.11.0
+slowapi==0.1.4
+python-multipart==0.0.5
